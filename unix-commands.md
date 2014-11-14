@@ -22,3 +22,8 @@ My simple reminder about command line ;)
 	- mkdir dirname
 	- cd dirname
 	- pwd
+
+#Finding things
+
+	- ff
+	- grep string filename(s)
