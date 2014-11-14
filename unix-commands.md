@@ -12,3 +12,7 @@ My simple reminder about command line ;)
 	- emacs _filename_
 	- mv filename1 filename2
 	- cp filename1 filename2
+	- rm filename
+	- diff filename1 filename2
+	- wc filename
+	- chmod options filename
