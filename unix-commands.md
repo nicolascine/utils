@@ -16,3 +16,9 @@ My simple reminder about command line ;)
 	- diff filename1 filename2
 	- wc filename
 	- chmod options filename
+
+#Directories
+
+	- mkdir dirname
+	- cd dirname
+	- pwd
