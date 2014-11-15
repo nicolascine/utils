@@ -40,6 +40,10 @@ My simple reminder about command line ;)
 
 #About your (electronic) self
 	- whoami
+	- finger
+	- passwd
+	- ps -u _username_
+	- kill PID
 
 
 
