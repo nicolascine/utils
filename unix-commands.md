@@ -48,6 +48,14 @@ My simple reminder about command line ;)
 	- du _filemane_
 	- last _yourusername_
 
+#Connecting to the outside world
+	
+	- nn
+	- rlogin _hostname_
+	- telnet _hostname_
+	- ftp _hostname_
+	- lynx
+
 
 
 
