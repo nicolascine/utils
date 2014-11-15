@@ -56,6 +56,12 @@ My simple reminder about command line ;)
 	- ftp _hostname_
 	- lynx
 
+#Miscellaneous tools
+
+	- webster _word_
+	- date
+	- cal
+
 
 
 
