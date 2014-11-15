@@ -44,6 +44,9 @@ My simple reminder about command line ;)
 	- passwd
 	- ps -u _username_
 	- kill PID
+	- quota -v
+	- du _filemane_
+	- last _yourusername_
 
 
 
