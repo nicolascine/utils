@@ -37,3 +37,12 @@ My simple reminder about command line ;)
 	- talk _username_
 	- write _username_
 	- elm
+
+#About your (electronic) self
+	- whoami
+
+
+
+
+
+
