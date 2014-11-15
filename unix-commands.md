@@ -34,3 +34,5 @@ My simple reminder about command line ;)
 	- who
 	- finger _username_
 	- last -1 _username_
+	- talk _username_
+	- write _username_
