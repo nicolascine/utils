@@ -36,3 +36,4 @@ My simple reminder about command line ;)
 	- last -1 _username_
 	- talk _username_
 	- write _username_
+	- elm
