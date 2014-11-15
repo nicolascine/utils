@@ -27,3 +27,10 @@ My simple reminder about command line ;)
 
 	- ff
 	- grep string filename(s)
+
+#About other people
+
+	- w
+	- who
+	- finger _username_
+	- last -1 _username_
