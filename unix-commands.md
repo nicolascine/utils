@@ -73,6 +73,12 @@ My simple reminder about command line ;)
 	- mii-tool eth0
 	- ping _host_
 	- whois _domain_
+	- dig _domain_
+	- dig -x _host_
+	- host google.com
+	- hostname –i
+	- wget file
+	- netstat -tupl
 
 
 
