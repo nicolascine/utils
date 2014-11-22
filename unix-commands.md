@@ -63,7 +63,16 @@ My simple reminder about command line ;)
 	- cal
 
 
+#Network
 
+	- ifconfig –a
+	- ifconfig eth0
+	- ip addr show
+	- ip address add 192.168.0.1 dev eth0
+	- ethtool eth0
+	- mii-tool eth0
+	- ping _host_
+	- whois _domain_
 
 
 
