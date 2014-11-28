@@ -80,5 +80,10 @@ My simple reminder about command line ;)
 	- wget file
 	- netstat -tupl
 
+#Compression / Archives
 
+	- tar cf home.tar home
+	- tar xf file.tar
+	- tar czf file.tar.gz files
+	- gzip file
 
