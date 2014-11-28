@@ -87,3 +87,10 @@ My simple reminder about command line ;)
 	- tar czf file.tar.gz files
 	- gzip file
 
+#Install Package
+	
+	- rpm -i pkgname.rpm
+	- rpm -e pkgname
+	  Install from source ./configure 
+	  make 
+	  make install
