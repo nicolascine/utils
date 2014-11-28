@@ -101,3 +101,6 @@ My simple reminder about command line ;)
 	- df -i 
 	- fdisk -l
 	- du -ah
+	- du -sh
+	- findmnt
+	- mount device-path mount-point
