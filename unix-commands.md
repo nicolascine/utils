@@ -94,3 +94,10 @@ My simple reminder about command line ;)
 	  Install from source ./configure 
 	  make 
 	  make install
+
+#Disk Usage
+	
+	- df -h
+	- df -i 
+	- fdisk -l
+	- du -ah
