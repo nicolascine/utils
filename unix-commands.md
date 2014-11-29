@@ -104,3 +104,8 @@ My simple reminder about command line ;)
 	- du -sh
 	- findmnt
 	- mount device-path mount-point
+
+#Statics
+
+	- top
+	- mpstat 1
