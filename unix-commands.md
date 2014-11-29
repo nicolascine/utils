@@ -115,3 +115,6 @@ My simple reminder about command line ;)
 	- tcpdump -i eth1
 	- tcpdump -i eth0 'port 80'
 	- lsof
+	- lsof -u testuser
+	- free –m
+	- watch df –h
