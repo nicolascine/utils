@@ -109,3 +109,9 @@ My simple reminder about command line ;)
 
 	- top
 	- mpstat 1
+	- vmstat 2
+	- iostat 2
+	- tail -n 500 /var/log/messages
+	- tcpdump -i eth1
+	- tcpdump -i eth0 'port 80'
+	- lsof
