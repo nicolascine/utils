@@ -1,6 +1,6 @@
 {
 "regiones":  [
-	{"n": "15", "nombre": "Arica y Parinacota", 
+	{"n": "15", "nombre": "Región de Arica y Parinacota", 
 		"comunas": [
 			{"n": "15101", "nombre": "Arica"},
 			{"n": "15102", "nombre": "Camarones"},
@@ -8,7 +8,7 @@
 			{"n": "15202", "nombre": "General Lagos"}
 		]
 	},
-	{"n": "01", "nombre": "Tarapacá",
+	{"n": "01", "nombre": "Región de Tarapacá",
 		"comunas": [
 			{"n": "01101", "nombre": "Iquique"},
 			{"n": "01107", "nombre": "Alto Hospicio"},
@@ -19,7 +19,7 @@
 			{"n": "01405", "nombre": "Pica"}
 		]
 	},
-	{"n": "02", "nombre": "Antofagasta",
+	{"n": "02", "nombre": "Región de Antofagasta",
 		"comunas": [
 			{"n": "02101", "nombre": "Antofagasta"},
 			{"n": "02102", "nombre": "Mejillones"},
@@ -32,7 +32,7 @@
 			{"n": "02302", "nombre": "María Elena"}
 		]
 	},
-	{"n": "03", "nombre": "Atacama",
+	{"n": "03", "nombre": "Región de Atacama",
 		"comunas": [
 			{"n": "03101", "nombre": "Copiapó"},
 			{"n": "03102", "nombre": "Caldera"},
@@ -45,7 +45,7 @@
 			{"n": "03304", "nombre": "Huasco"}
 		]
 	},
-	{"n": "04", "nombre": "Coquimbo",
+	{"n": "04", "nombre": "Región de Coquimbo",
 		"comunas": [
 			{"n": "04101", "nombre": "La Serena"},
 			{"n": "04102", "nombre": "Coquimbo"},
@@ -64,7 +64,7 @@
 			{"n": "04305", "nombre": "Río Hurtado"}
 		]
 	},
-	{"n": "05", "nombre": "Valparaíso",
+	{"n": "05", "nombre": "Región de Valparaíso",
 		"comunas": [
 			{"n": "05101", "nombre": "Valparaíso"},
 			{"n": "05102", "nombre": "Casablanca"},
@@ -106,7 +106,7 @@
 			{"n": "05804", "nombre": "Villa Alemana"}
 		]
 	},
-	{"n": "06", "nombre": "Lib. Gral. Bernardo O Higgins",
+	{"n": "06", "nombre": "Región del Lib. Gral. Bernardo O Higgins",
 		"comunas": [
 			{"n": "06101", "nombre": "Rancagua"},
 			{"n": "06102", "nombre": "Codegua"},
@@ -143,7 +143,7 @@
 			{"n": "06310", "nombre": "Santa Cruz"}
 		]
 	},
-	{"n": "07", "nombre": "Maule",
+	{"n": "07", "nombre": "Región del Maule",
 		"comunas": [
 			{"n": "07101", "nombre": "Talca"},
 			{"n": "07102", "nombre": "Constitución"},
@@ -177,7 +177,7 @@
 			{"n": "07408", "nombre": "Yerbas Buenas"}
 		]
 	},
-	{"n": "08", "nombre": "Bío-Bío",
+	{"n": "08", "nombre": "Región del Bío-Bío",
 		"comunas": [
 			{"n": "08101", "nombre": "Concepción"},
 			{"n": "08102", "nombre": "Coronel"},
@@ -235,7 +235,7 @@
 			{"n": "08421", "nombre": "Yungay"}
 		]
 	},
-	{"n": "09", "nombre": "Araucanía",
+	{"n": "09", "nombre": "Región de la Araucanía",
 		"comunas": [
 			{"n": "09101", "nombre": "Temuco"},
 			{"n": "09102", "nombre": "Carahue"},
@@ -271,7 +271,7 @@
 			{"n": "09211", "nombre": "Victoria"}
 		]
 	},
-	{"n": "14", "nombre": "Los Ríos",
+	{"n": "14", "nombre": "Región de Los Ríos",
 		"comunas": [
 			{"n": "14101", "nombre": "Valdivia"},
 			{"n": "14102", "nombre": "Corral"},
@@ -287,7 +287,7 @@
 			{"n": "14204", "nombre": "Río Bueno"}
 		]
 	},
-	{"n": "10", "nombre": "Los Lagos",
+	{"n": "10", "nombre": "Región de Los Lagos",
 		"comunas": [
 			{"n": "10101", "nombre": "Puerto Montt"},
 			{"n": "10102", "nombre": "Calbuco"},
@@ -321,7 +321,7 @@
 			{"n": "10404", "nombre": "Palena"}
 		]
 	},
-	{"n": "11", "nombre": "Aysén del Gral. C. Ibáñez del Campo",
+	{"n": "11", "nombre": "Región de Aysén del Gral. C. Ibáñez del Campo",
 		"comunas": [
 			{"n": "11101", "nombre": "Coihaique"},
 			{"n": "11102", "nombre": "Lago Verde"},
@@ -335,7 +335,7 @@
 			{"n": "11402", "nombre": "Río Ibáñez"}
 		]
 	},
-	{"n": "12", "nombre": "Magallanes y la Antártica Chilena",
+	{"n": "12", "nombre": "Región de Magallanes y la Antártica Chilena",
 		"comunas": [
 			{"n": "12101", "nombre": "Punta Arenas"},
 			{"n": "12102", "nombre": "Laguna Blanca"},
@@ -350,7 +350,7 @@
 			{"n": "12402", "nombre": "Torres del Paine"}
 		]
 	},
-	{"n": "13", "nombre": "Metropolitana",
+	{"n": "13", "nombre": "Región Metropolitana",
 		"comunas": [
 			{"n": "13101", "nombre": "Santiago"},
 			{"n": "13102", "nombre": "Cerrillos"},
