@@ -250,7 +250,7 @@ Germany,Universität Duisburg-Essen
 Germany,Justus-Liebig-Universität Gießen                    
 Germany,Technische Universität Braunschweig                    
 Germany,Martin-Luther-Universität Halle-Wittenberg                    
-Add optionsGreece,Aristotle University of Thessaloniki                    
+Greece,Aristotle University of Thessaloniki                    
 Greece,University of Crete                    
 Greece,National and Kapodistrian University of Athens                    
 Greece,National Technical University of Athens                    
@@ -354,462 +354,221 @@ Japan,Aoyama Gakuin University
 Japan,Doshisha University                    
 Japan,Kagoshima University                    
 Japan,Ochanomizu University                    
-
-
 Japan,Ritsumeikan University                    
-
-
 Japan,Saitama University                    
-
-
 Japan,Tokai University                    
-
-
 Jordan,Jordan University of Science and Technology                    
-
-
 Jordan,University of Jordan                    
-
-
 Kazakhstan,L.N. Gumilyov Eurasian National University                    
-
-
 Kazakhstan,Al-Farabi Kazakh National University                    
-
-
 Kazakhstan,Kazakh-British Technical University                    
-
-
 Kazakhstan,E.A.Buketov Karaganda State University                    
-
-
 Kazakhstan,Kazakh National Pedagogical University Abai                    
-
-
 Kazakhstan,Kazakh national technical university                    
-
-
 Kazakhstan,S.Seifullin Kazakh Agro Technical University                    
-
-
 Kazakhstan,South Kazakhstan State University (SKSU)                    
-
-
 Korea, Republic Of,Seoul National University (SNU)                    
-
-
 Korea, Republic Of,KAIST - Korea Advanced Institute of Science and Technology                    
-
-
 Korea, Republic Of,Pohang University of Science and Technology (POSTECH)                    
-
-
 Korea, Republic Of,Yonsei University                    
-
-
 Korea, Republic Of,Korea University                    
-
-
 Korea, Republic Of,Sungkyunkwan University                    
-
 Korea, Republic Of,Hanyang University                    
-
 Korea, Republic Of,Kyung Hee University                    
-
 Korea, Republic Of,Ewha Womans University                    
-
 Korea, Republic Of,Hankuk (Korea) University of Foreign Studies                    
-
 Korea, Republic Of,Sogang University                    
-
 Korea, Republic Of,Pusan National University                    
-
 Korea, Republic Of,The Catholic University of Korea                    
-
 Korea, Republic Of,Inha University                    
-
 Korea, Republic Of,Kyungpook National University                    
-
 Korea, Republic Of,University of Seoul                    
-
 Korea, Republic Of,Chonnam National University                    
-
 Korea, Republic Of,Chung-Ang University                    
-
 Korea, Republic Of,Chungnam National University                    
-
 Korea, Republic Of,University of Ulsan                    
-
 Korea, Republic Of,Chonbuk National University                    
-
 Kuwait,Kuwait University                    
-
 Lebanon,American University of Beirut (AUB)                    
-
 Lebanon,Université Saint-Joseph de Beyrouth                    
-
 Lithuania,Vilnius University                    
-
 Lithuania,Vilnius Gediminas Technical University                    
-
 Lithuania,Vytautas Magnus University                    
-
 Malaysia,Universiti Malaya (UM)                    
-
 Malaysia,Universiti Kebangsaan Malaysia (UKM)                    
-
 Malaysia,Universiti Sains Malaysia (USM)                    
-
 Malaysia,Universiti Teknologi Malaysia (UTM)                    
-
 Malaysia,Universiti Putra Malaysia (UPM)                    
-
 Malaysia,International Islamic University Malaysia (IIUM)                    
-
 Malaysia,Universiti Teknologi MARA (UiTM)                    
-
 Mexico,Universidad Nacional Autónoma de México (UNAM)                    
-
 Mexico,Tecnológico de Monterrey (ITESM)                    
-
 Mexico,Universidad de Guadalajara (UDG)                    
-
 Mexico,Instituto Politécnico Nacional (IPN)                    
-
 Mexico,Universidad Iberoamericana (UIA)                    
-
 Mexico,Benemérita Universidad Autónoma de Puebla                    
-
 Mexico,Instituto Tecnológico Autonomo de México (ITAM)                    
-
 Mexico,Universidad Autónoma del Estado de México                    
 Mexico,Universidad Autónoma Metropolitana (UAM)                    
-
 Mexico,Universidad de las Américas Puebla (UDLAP)                    
-
 Netherlands,University of Amsterdam                    
-
 Netherlands,Leiden University                    
-
 Netherlands,Utrecht University                    
-
 Netherlands,Erasmus University Rotterdam                    
-
 Netherlands,Delft University of Technology                    
-
 Netherlands,Maastricht University                    
-
 Netherlands,University of Groningen                    
-
 Netherlands,Radboud University Nijmegen                    
-
 Netherlands,Eindhoven University of Technology                    
-
 Netherlands,Wageningen University                    
-
 Netherlands,Vrije Universiteit Amsterdam                    
-
 Netherlands,University of Twente                    
-
 Netherlands,Tilburg University                    
-
 New Zealand,The University of Auckland                    
-
 New Zealand,University of Otago                    
-
 New Zealand,University of Canterbury                    
-
 New Zealand,Victoria University of Wellington                    
-
 New Zealand,Massey University                    
-
 New Zealand,University of Waikato                    
-
 New Zealand,Auckland University of Technology                    
-
 Norway,University of Oslo                    
-
 Norway,University of Bergen                    
-
 Norway,Norwegian University of Science and Technology                    
-
 Norway,University of Tromso                    
-
 Oman,Sultan Qaboos University                    
-
 Pakistan,National University of Sciences and Technology (NUST) Islamabad                    
-
 Pakistan,Lahore University of Management Sciences (LUMS)                    
-
 Pakistan,University of Engineering &amp; Technology (UET) Lahore                    
-
 Pakistan,University of Karachi                    
-
 Pakistan,University of Lahore                    
-
-Add optionsPeru,Pontificia Universidad Católica del Perú                    
-
-Peru,Universidad Nacional Mayor de San Marcos                    
-
-
-Peru,Universidad de Lima                    
-
-
 Peru,Pontificia Universidad Católica del Perú                    
-
-
+Peru,Universidad Nacional Mayor de San Marcos                    
+Peru,Universidad de Lima                    
+Peru,Pontificia Universidad Católica del Perú                    
 Philippines,University of the Philippines                    
-
-
 Philippines,Ateneo de Manila University                    
-
-
 Philippines,De La Salle University                    
-
-
 Philippines,University of Santo Tomas                    
-
-
 Poland,University of Warsaw                    
-
 Poland,Jagiellonian University                    
-
 Poland,Lodz University                    
-
 Poland,Warsaw University of Technology                    
-
 Portugal,University of Coimbra                    
-
 Portugal,Universidade Nova de Lisboa                    
-
 Portugal,University of Porto                    
-
 Portugal,Universidade Catolica Portuguesa, Lisboa                    
-
 Portugal,University of Lisbon                    
-
 Puerto Rico,Universidad de Puerto Rico                    
-
 Qatar,Qatar University                    
-
 Romania,Alexandru Ioan Cuza University                    
-
 Romania,Babes-Bolyai University                    
-
 Romania,University of Bucharest                    
-
 Romania,West University of Timisoara                    
-
 Russian Federation,Lomonosov Moscow State University                    
-
 Russian Federation,Saint-Petersburg State University                    
-
 Russian Federation,Bauman Moscow State Technical University                    
-
 Russian Federation,Moscow State Institute of International Relations (MGIMO-University)                    
-
 Russian Federation,Novosibirsk State University                    
-
 Russian Federation,Ural Federal University named after Boris Yeltsin (merger: Ural State and Ural State Technical University)                    
-
 Russian Federation,National Research University - Higher School of Economics (HSE)                    
-
 Russian Federation,People's Friendship University of Russia                    
-
 Russian Federation,Tomsk State University                    
-
 Russian Federation,Far Eastern Federal University                    
-
 Russian Federation,Kazan Federal University                    
-
 Russian Federation,N.I. Lobachevsky State University of Nizhni Novgorod                    
-
 Russian Federation,Plekhanov Russian University of Economics                    
-
 Russian Federation,Tomsk Polytechnic University                    
-
 Saudi Arabia,King Saud University (KSU)                    
-
 Saudi Arabia,King Fahd University of Petroleum &amp; Minerals (KFUPM)                    
-
 Saudi Arabia,King Abdul Aziz University (KAU)                    
-
 Saudi Arabia,Al-Imam Mohamed Ibn Saud Islamic University                    
-
 Saudi Arabia,King Khalid University                    
-
 Saudi Arabia,Umm Al-Qura University (UQU)                    
-
 Saudi Arabia,King Faisal University                    
-
 Serbia,University of Belgrade                    
-
 Singapore,National University of Singapore (NUS)                    
-
 Singapore,Nanyang Technological University (NTU)                    
-
 Slovenia,University of Ljubljana                    
-
 South Africa,University of Cape Town                    
-
 South Africa,University of The Witwatersrand                    
-
 South Africa,Stellenbosch University                    
-
 South Africa,University of Pretoria                    
-
 South Africa,University of Kwazulu-Natal                    
-
 Spain,Universitat Autónoma de Barcelona                    
-
 Spain,Universitat de Barcelona (UB)                    
-
 Spain,Universidad Autónoma de Madrid                    
-
 Spain,Universidad Complutense de Madrid (UCM)                    
-
 Spain,Universitat Pompeu Fabra                    
-
 Spain,Universidad Carlos III de Madrid                    
-
 Spain,Universitat Politècnica de Catalunya                    
-
 Spain,Universidad de Navarra                    
-
 Spain,Universidad Politecnica de Valencia                    
-
 Spain,Politécnica de Madrid                    
-
 Spain,Universidad de Granada                    
-
 Spain,Universidad de Salamanca                    
-
 Spain,Universidade de Santiago de Compostela                    
-
 Spain,Universitat de Valencia                    
-
 Spain,Universidad de Zaragoza                    
-
 Spain,Universidad de Sevilla                    
-
 Spain,Universidad de Alcalá                    
-
 Spain,Universidad de Murcia                    
-
 Sri Lanka,University of Colombo                    
-
 Sweden,Lund University                    
-
 Sweden,Uppsala University                    
-
 Sweden,KTH, Royal Institute of Technology                    
-
 Sweden,Stockholm University                    
-
 Sweden,University of Gothenburg                    
-
 Sweden,Chalmers University of Technology                    
-
 Sweden,Umeå University                    
-
 Sweden,Linköping University                    
-
 Switzerland,ETH Zurich (Swiss Federal Institute of Technology)                    
-
 Switzerland,Ecole Polytechnique Fédérale de Lausanne (EPFL)                    
-
 Switzerland,University of Geneva                    
-
 Switzerland,University of Zurich                    
-
 Switzerland,University of Lausanne                    
-
 Switzerland,University of Basel                    
-
 Switzerland,University of Bern                    
-
 Switzerland,University of St Gallen (HSG)                    
-
-Add optionsTaiwan, Province Of China,National Taiwan University (NTU)                    
-
+Taiwan, Province Of China,National Taiwan University (NTU)                    
 Taiwan, Province Of China,National Tsing Hua University                    
-
 Taiwan, Province Of China,National Chiao Tung University                    
-
 Taiwan, Province Of China,National Cheng Kung University                    
-
 Taiwan, Province Of China,National Yang Ming University                    
-
 Taiwan, Province Of China,Taipei Medical University                    
-
 Taiwan, Province Of China,National Taiwan University of Science and Technology                    
-
 Thailand,Chulalongkorn University                    
-
 Thailand,Mahidol University                    
-
 Thailand,Chiang Mai University                    
-
 Thailand,Thammasat University                    
-
 Thailand,Kasetsart University                    
-
 Thailand,Khon Kaen University                    
-
 Thailand,King Mongkut's University of Technology Thonburi                    
-
 Thailand,Prince of Songkla University                    
-
 Turkey,Bilkent University                    
-
 Turkey,Middle East Technical University                    
-
 Turkey,Istanbul Technical University                    
-
 Turkey,Koç University                    
-
 Turkey,Sabanci University                    
-
 Turkey,Bogaziçi Üniversitesi                    
-
 Turkey,Hacettepe University                    
-
 Turkey,Istanbul University                    
-
 Turkey,Cukurova University                    
-
 Ukraine,Taras Shevchenko National University of Kyiv                    
-
 Ukraine,Donetsk National University                    
-
 Ukraine,National Technical University of Ukraine "Kyiv Polytechnic Institute"                    
-
 United Arab Emirates,United Arab Emirates University                    
-
 United Arab Emirates,American University of Sharjah                    
-
 United Arab Emirates,Abu Dhabi University                    
-
 United Kingdom,University of Cambridge                    
-
 United Kingdom,UCL (University College London)                    
-
 United Kingdom,University of Oxford                    
-
 United Kingdom,Imperial College London                    
-
 United Kingdom,University of Edinburgh                    
-
 United Kingdom,King's College London (KCL)                    
-
 United Kingdom,University of Bristol                    
-
 United Kingdom,The University of Manchester                    
-
 United Kingdom,University of Glasgow                    
-
 United Kingdom,The University of Warwick                    
-
 United Kingdom,The University of Sheffield                    
 United Kingdom,London School of Economics and Political Science (LSE)                    
 United Kingdom,The University of Nottingham                    
@@ -990,4 +749,3 @@ Uruguay,Universidad de la República (UdelaR)
 Venezuela,Universidad Central de Venezuela (UCV)
 Venezuela,Universidad Simón Bolívar Venezuela
 Venezuela,Universidad de los Andes Mérida
-Other (please specify)
