@@ -1,9 +1,9 @@
 {  
-   "regiones":[  
+   "regions":[  
       {  
          "id":"15",
          "name":"Región de Arica y Parinacota",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"15101",
                "name":"Arica"
@@ -25,7 +25,7 @@
       {  
          "id":"01",
          "name":"Región de Tarapacá",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"01101",
                "name":"Iquique"
@@ -59,7 +59,7 @@
       {  
          "id":"02",
          "name":"Región de Antofagasta",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"02101",
                "name":"Antofagasta"
@@ -101,7 +101,7 @@
       {  
          "id":"03",
          "name":"Región de Atacama",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"03101",
                "name":"Copiapó"
@@ -143,7 +143,7 @@
       {  
          "id":"04",
          "name":"Región de Coquimbo",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"04101",
                "name":"La Serena"
@@ -209,7 +209,7 @@
       {  
          "id":"05",
          "name":"Región de Valparaíso",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"05101",
                "name":"Valparaíso"
@@ -367,7 +367,7 @@
       {  
          "id":"06",
          "name":"Región del Lib. Gral. Bernardo O Higgins",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"06101",
                "name":"Rancagua"
@@ -505,7 +505,7 @@
       {  
          "id":"07",
          "name":"Región del Maule",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"07101",
                "name":"Talca"
@@ -631,7 +631,7 @@
       {  
          "id":"08",
          "name":"Región del Bío-Bío",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"08101",
                "name":"Concepción"
@@ -853,7 +853,7 @@
       {  
          "id":"09",
          "name":"Región de la Araucanía",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"09101",
                "name":"Temuco"
@@ -987,7 +987,7 @@
       {  
          "id":"14",
          "name":"Región de Los Ríos",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"14101",
                "name":"Valdivia"
@@ -1041,7 +1041,7 @@
       {  
          "id":"10",
          "name":"Región de Los Lagos",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"10101",
                "name":"Puerto Montt"
@@ -1167,7 +1167,7 @@
       {  
          "id":"11",
          "name":"Región de Aysén del Gral. C. Ibáñez del Campo",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"11101",
                "name":"Coihaique"
@@ -1213,7 +1213,7 @@
       {  
          "id":"12",
          "name":"Región de Magallanes y la Antártica Chilena",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"12101",
                "name":"Punta Arenas"
@@ -1263,7 +1263,7 @@
       {  
          "id":"13",
          "name":"Región Metropolitana",
-         "comunas":[  
+         "communes":[  
             {  
                "id":"13101",
                "name":"Santiago"
