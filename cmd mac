@@ -1,0 +1,6 @@
+subl config: 
+
+$ sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+$ nano  ~/.bash_profile
+   > export PATH=/usr/local/bin:$PATH
+$ source ~/.bash_profile
